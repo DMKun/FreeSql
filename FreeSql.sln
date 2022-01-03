@@ -111,6 +111,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeSql.Tests.Provider.Sqli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeSql.Provider.SqliteCore", "Providers\FreeSql.Provider.SqliteCore\FreeSql.Provider.SqliteCore.csproj", "{D4FEE5C1-6805-4B46-B10B-BE5CC942B883}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeSql.Extensions.Formattable", "Extensions\FreeSql.Extensions.Formattable\FreeSql.Extensions.Formattable.csproj", "{A7040A50-DFEA-4EB9-A664-B018363214B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -649,6 +651,18 @@ Global
 		{D4FEE5C1-6805-4B46-B10B-BE5CC942B883}.Release|x64.Build.0 = Release|Any CPU
 		{D4FEE5C1-6805-4B46-B10B-BE5CC942B883}.Release|x86.ActiveCfg = Release|Any CPU
 		{D4FEE5C1-6805-4B46-B10B-BE5CC942B883}.Release|x86.Build.0 = Release|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Debug|x64.Build.0 = Debug|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Debug|x86.Build.0 = Debug|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Release|x64.ActiveCfg = Release|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Release|x64.Build.0 = Release|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Release|x86.ActiveCfg = Release|Any CPU
+		{A7040A50-DFEA-4EB9-A664-B018363214B1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -685,6 +699,7 @@ Global
 		{86C56235-5D37-4422-807B-B31681C7D01C} = {2A381C57-2697-427B-9F10-55DA11FD02E4}
 		{BDE8EDC6-2646-45E0-A921-39CD1538A8C5} = {2A381C57-2697-427B-9F10-55DA11FD02E4}
 		{D4FEE5C1-6805-4B46-B10B-BE5CC942B883} = {2A381C57-2697-427B-9F10-55DA11FD02E4}
+		{A7040A50-DFEA-4EB9-A664-B018363214B1} = {4A92E8A6-9A6D-41A1-9CDA-DE10899648AA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {089687FD-5D25-40AB-BA8A-A10D1E137F98}
